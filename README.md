@@ -45,29 +45,23 @@ To run this project locally, follow these steps:
     ```
 
 ## 📂 Project Structure
-```text
-SCT_SE_1/
-├── temperature_gui.py     # The source code for the GUI application
-├── requirements.txt       # List of external libraries (CustomTkinter)
-├── README.md              # Project documentation
-├── Screenshots/           # Folder containing app screenshots
-│   ├── Cel-Far.png
-│   └── Kel-Cel.png
-└── demo_video/            # Folder containing the demo video
-    └── demo_video.mp4
+* `temperature_gui.py`: Main application script
+* `requirements.txt`: Dependencies list
+* `README.md`: Project documentation
+* `Screenshots/`: Folder containing app images
+* `demo_video/`: Folder containing the demo video
 
 ## 💻 Tech Stack
-**Language:** Python 3.13.6
-
-**GUI Framework:** CustomTkinter
-
-**IDE:** Visual Studio Code
+* **Programming Language:** Python 3.13.6
+* **GUI Library:** CustomTkinter (Modern UI wrapper for Tkinter)
+* **Development Environment:** Visual Studio Code
+* **Version Control:** Git & GitHub
 
 ## 👨‍💻 Author
-Adithyan P S
+**Adithyan P S**
+* **Role:** Software Engineering Intern
+* **LinkedIn:** [Adithyan P S](https://www.linkedin.com/in/adithyan-p-s-mobile/)
+* **GitHub:** [@Adithyanps47](https://github.com/Adithyanps47)
 
-LinkedIn: Adithyan P S
-
-GitHub: Adithyanps47
-
-Developed for SkillCraft Technology Internship Task 01
+---
+*Developed for SkillCraft Technology Internship | Task 01*
