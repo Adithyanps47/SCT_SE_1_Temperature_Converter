@@ -1,18 +1,16 @@
-# SCT_SE_1 – Temperature Converter
+# Temperature Converter GUI 🌡️
+**SkillCraft Technology Internship - Task 01**
 
-This is Task 1 of the SkillCraft Internship (Software Engineering Track).
+## Description
+A modern, user-friendly desktop application built with Python and `CustomTkinter` that converts temperatures between Celsius, Fahrenheit, and Kelvin.
 
-## 🔥 Project Description
-A simple Python program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
+## Features
+- 🌑 **Dark Mode UI:** sleek, modern interface.
+- 🔄 **Multi-Unit Support:** Converts between Celsius, Fahrenheit, and Kelvin.
+- 🛡️ **Error Handling:** Prevents crashes from invalid inputs.
+- ⚡ **Real-time Updates:** Clean and responsive design.
 
-## 🚀 Features
-- Celsius → Fahrenheit & Kelvin  
-- Fahrenheit → Celsius & Kelvin  
-- Kelvin → Celsius & Fahrenheit  
-- Clean input/output  
-- Beginner-friendly logic  
-
-## 🧠 How to Run
-
-```bash
-python temperature_converter.py
+## How to Run
+1. Install the required library:
+   ```bash
+   pip install -r requirements.txt
