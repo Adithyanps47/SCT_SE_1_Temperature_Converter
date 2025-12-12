@@ -4,16 +4,17 @@
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![GUI](https://img.shields.io/badge/GUI-CustomTkinter-blueviolet)
+![IDE](https://img.shields.io/badge/IDE-VS_Code-007ACC)
 
 ## 📋 Description
 A modern, user-friendly desktop application built with Python and `CustomTkinter` that performs real-time temperature conversions. Unlike standard console scripts, this application features a fully responsive Graphical User Interface (GUI) with dark mode support.
 
-This project was developed as part of the **SkillCraft Technology** internship program (Software Development Track).
+This project was developed using **Visual Studio Code** as part of the **SkillCraft Technology** internship program (Software Development Track).
 
 ## ✨ Features
 * **Modern UI/UX:** Built with `CustomTkinter` for a professional, dark-themed aesthetic.
 * **Universal Conversion:** Supports **Celsius**, **Fahrenheit**, and **Kelvin** scales.
-* **Robust Error Handling:** graceful handling of non-numeric inputs prevents crashes.
+* **Robust Error Handling:** Graceful handling of non-numeric inputs prevents crashes.
 * **User-Driven Design:** Clear layout with dropdown menus for easy selection.
 
 ## 📸 Screenshot
