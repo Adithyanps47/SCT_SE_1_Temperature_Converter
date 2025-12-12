@@ -12,7 +12,7 @@ A modern, user-friendly desktop application built with Python and `CustomTkinter
 This project was developed using **Visual Studio Code** as part of the **SkillCraft Technology** internship program (Software Engineering Track).
 
 ## ✨ Features
-* **Modern UI/UX:** Built with `CustomTkinter` for a professional, dark-themed aesthetic.
+* **Modern UI/UX:** Built with `CustomTkinter` for a professional.
 * **Universal Conversion:** Supports **Celsius**, **Fahrenheit**, and **Kelvin** scales.
 * **Robust Error Handling:** Graceful handling of non-numeric inputs prevents crashes.
 * **User-Driven Design:** Clear layout with dropdown menus for easy selection.
